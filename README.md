@@ -1,1 +1,1 @@
-"# Skarbnik-Klasowy" 
+# Skarbnik-Klasowy
